@@ -3,6 +3,7 @@
 1 行毎にシリアライズする時間を見る
 
 |case|fast-csv|rust-csv|
+|-|-|-|
 |34959673 lines/818MB|83.574sec|53.314sec|
 
 ref:
